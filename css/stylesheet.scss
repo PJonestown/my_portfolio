@@ -1,0 +1,38 @@
+body{ /* for demo purpose only */
+    height:2000px;
+    padding-top:100px;
+}
+
+#hi {
+  font-family: 'Limelight', cursive;
+  font-size: 80px;
+}
+
+.hi-div {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+#dev {
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: maroon;
+  margin-bottom: 175px;
+}
+
+  .navbar-nav {
+    width: 100%;
+    text-align: center;
+    > li {
+      float: none;
+      display: inline-block;
+    }
+  }
+
+#about {
+  color: 4DACA8
+}
+
+#my-picture {
+  width: 800px;
+  float: right;
+}
